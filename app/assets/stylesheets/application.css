@@ -13,3 +13,21 @@
  *= require_tree .
  *= require_self
  */
+
+ .greeting {
+     font-size: 30px;
+     align-items: center;
+     text-align: center;
+     margin-top: 20px;
+ }
+
+ .info_dir {
+     font-size: 16px;
+     text-align: center;
+     margin-bottom: 44px;
+ }
+
+ .duration {
+     margin-bottom: 10px;
+ }
+
